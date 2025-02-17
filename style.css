@@ -8,7 +8,7 @@
 /* Configuracion Fuente */
 @font-face {
   font-family: "miFuente";
-  src: url("../fonts/openSans.ttf");
+  src: url("./openSans.ttf");
 }
 
 /* Medidas de referencia HTML */
