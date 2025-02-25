@@ -1,0 +1,33 @@
+/* Reset General */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Configuracion Fuente */
+@font-face {
+  font-family: "miFuente";
+  src: url("../fonts/openSans.ttf");
+}
+
+/* Medidas de referencia HTML */
+html {
+  font-size: 100%;
+  width: 100%;
+  height: 100%;
+}
+
+/* Configuracion del Body */
+body{
+    background:azure;
+    font-family: miFuente;
+    font-size: 100%;
+}
+
+/* Estilos del Icono Fuente */
+.icon-fire{
+  color:red;
+  font-weight: bolder;
+  font-size: 1.2em;
+}
